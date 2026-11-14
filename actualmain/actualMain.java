@@ -18,7 +18,7 @@ import javax.swing.SpinnerNumberModel;
 import javax.swing.SwingUtilities;
 
 public class actualMain {
-	//beep beep
+	//beep
 	//User interface should always run in a separate GUI thread
 	//CHECK OUT PACKAGE MAIN AND MAIN CLASS TO LEARN ABOUT THESE PROGRAMS.
 
